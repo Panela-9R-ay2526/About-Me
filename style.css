@@ -1,0 +1,19 @@
+body{
+    background-color: slateblue;
+    background-image: url(ICT\ WALLPAPER.jpeg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hero-image{ 
+    background-color: blanchedalmond;
+}
+.hero-text{
+    text-align: center;
+}
+.box {
+    border-radius: 5px;
+    border: 4px solid #f8ead7;
+    margin-left: auto;
+    margin-right: auto;
+}
